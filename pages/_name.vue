@@ -29,6 +29,26 @@ export default {
           content: "test de " + this.name,
         },
         {
+          hid: "og:type",
+          property: "og:type",
+          content: "website",
+        },
+        {
+          hid: "og:url",
+          property: "og:url",
+          content: "http://ec2-44-212-0-107.compute-1.amazonaws.com:3001/",
+        },
+        {
+          hid: "og:title",
+          property: "og:title",
+          content: "test",
+        },
+        {
+          hid: "og:description",
+          property: "og:description",
+          content: "Test de Foto",
+        },
+        {
           hid: "og:image",
           property: "og:image",
           content:
