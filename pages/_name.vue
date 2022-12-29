@@ -39,21 +39,21 @@ export default {
         },
         {
           hid: "twitter:type",
-          property: "og:type",
+          property: "twitter:type",
           content: "website",
         },
         {
           hid: "twitter:url",
-          property: "og:url",
+          property: "twitter:url",
           content: "http://ec2-44-212-0-107.compute-1.amazonaws.com:3001/",
         },
         {
           hid: "twitter:title",
-          property: "og:title",
+          property: "twitter:title",
           content: "test",
         },
         {
-          hid: "og:description",
+          hid: "twitter:description",
           property: "twitter:description",
           content: "Test de Foto",
         },
